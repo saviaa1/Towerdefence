@@ -1,0 +1,14 @@
+# sbt
+target/
+build/
+
+# eclipse
+build
+.classpath
+.project
+.settings
+.worksheet
+/bin/
+.cache
+.cache-main
+.cache-tests
